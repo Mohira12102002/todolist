@@ -128,6 +128,7 @@ function addTask(){
         btnDelete.textContent= "Delete";
         isEditing=!isEditing;
       }else{
+        li.remove();
       }
      });
 
