@@ -128,7 +128,7 @@ function addTask(){
         btnDelete.textContent= "Delete";
         isEditing=!isEditing;
       }
-        li.remove();
+        // li.remove();
      });
 
 
