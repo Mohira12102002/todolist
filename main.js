@@ -127,8 +127,8 @@ function addTask(){
         edit.textContent= "Edit";
         btnDelete.textContent= "Delete";
         isEditing=!isEditing;
+      }else{
       }
-        // li.remove();
      });
 
 
